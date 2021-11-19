@@ -1,0 +1,59 @@
+{
+  "data": [ 
+    {
+      "id": 0,
+      "name": "개발",
+      "img": "https://static.wanted.co.kr/images/tags/675ed3b6.jpg"
+    },
+    {
+      "id": 1,
+      "name": "경영 비즈니스",
+      "img": "https://static.wanted.co.kr/images/tags/a5cfdc9e.jpg"
+    },
+    {
+      "id": 2,
+      "name": "마케팅 광고",
+      "img": "https://static.wanted.co.kr/images/tags/4a95ff52.jpg"
+    },
+    {
+      "id": 3,
+      "name": "디자인",
+      "img": "https://static.wanted.co.kr/images/tags/8d39d3a6.jpg"
+    },
+    {
+      "id": 4,
+      "name": "고객서비스",
+      "img": "https://static.wanted.co.kr/images/tags/9242fbde.jpg"
+    },
+    {
+      "id": 5,
+      "name": "영업",
+      "img": "https://static.wanted.co.kr/images/tags/3c36ce46.jpg"
+    },
+    {
+      "id": 6,
+      "name": "인사",
+      "img": "https://static.wanted.co.kr/images/tags/6e0effd8.jpg"
+    },
+    {
+      "id": 7,
+      "name": "미디어",
+      "img": "https://static.wanted.co.kr/images/tags/43a5dd52.jpg"
+    },
+    {
+      "id": 8,
+      "name": "게임 제작",
+      "img": "https://static.wanted.co.kr/images/tags/2eb98862.jpg"
+    },
+    {
+      "id": 9,
+      "name": "금융",
+      "img": "https://static.wanted.co.kr/images/tags/9f8f0364.jpg"
+    },
+    {
+      "id": 10,
+      "name": "엔지니어링",
+      "img": "https://static.wanted.co.kr/images/tags/87d8057c.jpg"
+    }
+  ]
+}
